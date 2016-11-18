@@ -1,0 +1,2 @@
+# WebAdminHikitsugiLog
+Web管の引き継ぎ時にやったことメモ
